@@ -6,4 +6,5 @@ website is under construction (i will probably never finish this lmao)
 
 - [Downloads section](https://headlesshorseless.github.io/Headless-Downloads/)
 - [Test Webpage](https://headlesshorseless.github.io/test/)
-- (warning: test webpage is bright)
+- [you](https://headlesshorseless.github.io/you/)
+- (warning: test webpage and "you" is bright)
