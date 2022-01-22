@@ -1,5 +1,5 @@
 # Headless-website
-website is under construction (i will probably never finish this lmao)
+website is under construction (i will probably never finish this)
 - main page (this page)
 - other pages:
 - [HeadlessHack](https://headlesshorseless.github.io/HeadlessHack/)
