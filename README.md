@@ -1,5 +1,4 @@
-# Headless-website
-website is under construction (i will probably never finish this)
+# Welcome to the main page
 - main page (this page)
 - other pages:
 - [HeadlessHack](https://headlesshorseless.github.io/HeadlessHack/)
@@ -8,3 +7,5 @@ website is under construction (i will probably never finish this)
 - [Test Webpage](https://headlesshorseless.github.io/test/)
 - [you](https://headlesshorseless.github.io/you/)
 - (warning: test webpage and "you" are bright)
+
+more stuff potentially comming soon!
