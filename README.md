@@ -6,6 +6,7 @@
 - [Downloads section](https://headlesshorseless.github.io/Headless-Downloads/)
 - [Test Webpage](https://headlesshorseless.github.io/test/)
 - [you](https://headlesshorseless.github.io/you/)
+- [Radio Bot](headlesshorseless.github.io/radio-bot/)
 - (warning: test webpage and "you" are bright)
 
 more stuff potentially comming soon!
