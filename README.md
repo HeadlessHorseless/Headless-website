@@ -1,12 +1,6 @@
-# Welcome to the main page
-- main page (this page)
-- other pages:
-- [HeadlessHack](https://headlesshorseless.github.io/HeadlessHack/)
-
-- [Downloads section](https://headlesshorseless.github.io/Headless-Downloads/)
-- [Test Webpage](https://headlesshorseless.github.io/test/)
+# Welcome to my crap site
+- Here are some of my other pages:
+- [Random Downloads](https://headlesshorseless.github.io/Headless-Downloads/)
+- [Test page](https://headlesshorseless.github.io/test/)
 - [you](https://headlesshorseless.github.io/you/)
-- [Radio Bot](https://headlesshorseless.github.io/radio-bot/)
 - (warning: test webpage and "you" are bright)
-
-more stuff potentially comming soon!
